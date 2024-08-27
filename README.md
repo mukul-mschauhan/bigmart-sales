@@ -8,6 +8,13 @@
 
 - Step 3: open the vscode by writing the following code on gitbash terminal code .
 
+#### How to update the readme file
+
+- step1: write git add . on gitbash
+- step2: Pass the following command git commit -m "readme-updated"
+- step3: git push origin main
+  Refresh the repository and you will see that the readme file is updated.
+
 ### Creation of Template for Production Level Code
 
 - Note: We will be using os library to create folders and files. The list of the files created will be
