@@ -78,3 +78,17 @@ We need the above files for MLOps and here is a small description of each file.
 - **MLOps Tool**: https://www.evidentlyai.com/
 
 - Note: We will be using evidentlyai for MLOps. MLOps will be used in the next project.
+
+#### Commands to create environment in GitBash
+
+```bash
+conda create -n bigmart python=3.8 -y
+```
+
+```bash
+conda activate bigmart
+```
+
+```bash
+pip install -r requirements.txt
+```
