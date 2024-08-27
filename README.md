@@ -26,11 +26,11 @@
 - model_evaluation.py
 - model_pusher.py
 
-- We need the above files for MLOps and here is a small description of each file.
+We need the above files for MLOps and here is a small description of each file.
 
-#### Core MLOps Components
+### Core MLOps Components
 
-- **init**.py files: These files, present in several directories, turn them into Python packages. This allows you to organize your code into logical units and easily import functionality between different parts of your project.
+- **init.py files:** These files, present in several directories, turn them into Python packages. This allows you to organize your code into logical units and easily import functionality between different parts of your project.
 
 - **data_ingestion.py:** Handles the collection and loading of raw data from various sources into your ML pipeline.
 
@@ -70,3 +70,11 @@
 - MLOps Best Practices: This structure aligns well with MLOps principles, enabling better version control, continuous integration/continuous deployment (CI/CD), testing, monitoring, and overall management of the ML lifecycle.
 
   In summary, this modular file structure establishes a solid foundation for ML productionization. It enhances organization, maintainability, collaboration, and adherence to MLOps best practices, making your ML projects more robust and easier to manage in real-world deployment scenarios.
+
+#### Links for the Tools:
+
+- **Github**: www.git-scm.com
+- **Flowchart**: https://whimsical.com/templates
+- **MLOps Tool**: https://www.evidentlyai.com/
+
+- Note: We will be using evidentlyai for MLOps. MLOps will be used in the next project.

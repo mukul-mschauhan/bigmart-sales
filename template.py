@@ -23,9 +23,18 @@ list_of_files = [
     f"{project_name}/pipeline/training_pipeline.py",
     f"{project_name}/prediction_pipeline.py",
     f"{project_name}/utils/__init__.py",
-    f"{project_name}/utils/main_utils.py"
+    f"{project_name}/utils/main_utils.py",
+    "app.py",
+    "requirements.txt",
+    "Dockerfile",
+    ".dockerignore",
+    "demo.py",
+    "setup.py",
+    "config/model.yaml",
+    "config/schema.yaml",    
+    
 ]
-
+# Code for generating the Folders and Files...
 for filepath in list_of_files:
     filepath = Path(filepath)
     filedir, filename = os.path.split(filepath)
@@ -36,4 +45,5 @@ for filepath in list_of_files:
                 pass
         else:
             print(f"file is already present at: {filepath}")
+            
             
