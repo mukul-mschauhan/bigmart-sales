@@ -25,5 +25,3 @@
 - model_trainer.py
 - model_evaluation.py
 - model_pusher.py
-
-![Model Structure (1)](https://github.com/user-attachments/assets/1c716559-73e8-4eeb-9d07-c5fa1a4158cf)
