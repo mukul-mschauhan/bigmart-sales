@@ -31,9 +31,9 @@ list_of_files = [
     "demo.py",
     "setup.py",
     "config/model.yaml",
-    "config/schema.yaml",    
-    
-]
+    "config/schema.yaml"]
+
+
 # Code for generating the Folders and Files...
 for filepath in list_of_files:
     filepath = Path(filepath)
