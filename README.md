@@ -26,4 +26,4 @@
 - model_evaluation.py
 - model_pusher.py
 
-![Model Structure](https://github.com/user-attachments/assets/1092f3d5-f592-4d3d-9d6e-9a583c9f500c)
+![Model Structure (1)](https://github.com/user-attachments/assets/1c716559-73e8-4eeb-9d07-c5fa1a4158cf)
